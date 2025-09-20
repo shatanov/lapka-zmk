@@ -7,8 +7,6 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: enki42_left
+    shield: wellum36_left
   - board: nice_nano_v2
-    shield: enki42_right
-  - board: nice_nano_v2
-    shield: enki42_dongle
+    shield: wellum36_right
