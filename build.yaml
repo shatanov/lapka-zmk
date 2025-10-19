@@ -6,7 +6,7 @@
 #
 ---
 include:
-  - board: promicro_nrf52840
+  - board: nice_nano_v2
     shield: wellum36_left
-  - board: promicro_nrf52840
+  - board: nice_nano_v2
     shield: wellum36_right
